@@ -33,7 +33,7 @@ terraform init
 terraform plan
 terraform apply
 
-Store state file in remote S3 for Resource creation logs
+Store state file in remote S3 for Resource creation History.
 
 4 SSH into the EC2 instance and verify Apache is running
 
