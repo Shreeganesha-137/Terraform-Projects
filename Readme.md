@@ -36,6 +36,8 @@ terraform apply
 Store state file in remote S3 for Resource creation History.
 
 4 SSH into the EC2 instance and verify Apache is running
+<img width="656" height="300" alt="image" src="https://github.com/user-attachments/assets/716ce074-2f43-494b-b354-2426009bd558" />
+
 
 📬 Contact
 Shreeganesha
