@@ -35,6 +35,9 @@ terraform apply
 
 4 SSH into the EC2 instance and verify Apache is running
 
+<img width="656" height="300" alt="image" src="https://github.com/user-attachments/assets/703a8065-c24e-4b31-94d2-00cadaa7befb" />
+
+
 📬 Contact
 Shreeganesha
 📧 shreestar393@gmail.com
